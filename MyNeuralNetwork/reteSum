@@ -1,0 +1,2 @@
+nome=ReteSum
+layer={ nome=layer activationFunction=Logistic inputUnits=2 outputUnits=2 }

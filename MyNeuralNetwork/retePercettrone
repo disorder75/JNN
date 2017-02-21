@@ -1,0 +1,2 @@
+nome=RetePercettrone
+layer={ nome=input activationFunction=Step inputUnits=1 outputUnits=1 }

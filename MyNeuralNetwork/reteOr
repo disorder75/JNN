@@ -1,0 +1,2 @@
+nome=ReteOr
+layer={ nome=layer activationFunction=Step inputUnits=2 outputUnits=1 weights=[[1,1,-0.5]] }
