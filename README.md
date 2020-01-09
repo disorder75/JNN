@@ -1,2 +1,2 @@
 # MyNeuralNetwork
-Java implementation of a neural network
+Implementation of a neural network in Java 
